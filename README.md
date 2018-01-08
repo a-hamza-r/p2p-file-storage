@@ -28,5 +28,5 @@ The tracker follows a flood-fill algorithm. When a new node arrives, it sends it
 - Read by offset
 - Seperate working peers
 - Tracker to share IPs
-- Fault tolerance
+- Fault tolerance 
 - Load balancing
