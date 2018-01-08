@@ -1,4 +1,4 @@
-# p2p-file-storage
+# p2p-file-system
 A peer-to-peer file storage system implemented in GOLANG
 
 ## Initial Setup:
